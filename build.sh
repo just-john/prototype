@@ -2,7 +2,7 @@
 
 source ./profile
 
-mkdir -p ${PROJECT_ROOT_DIR}/bld
+mkdir -p ${PROJECT_ROOT}/bld
 mkdir -p ${PROJECT_BIN_DIR}/lib
 
 mkdir -p "${PROJECT_BUILD_DIR}"

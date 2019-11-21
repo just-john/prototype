@@ -1,6 +1,7 @@
 
 add_executable (
     untitled
+    b64.cpp
     main.cpp
 )
 
